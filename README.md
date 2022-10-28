@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tymoteusz Gralak</h1>
 <h3 align="center">A passionate full stack developer from Poland</h3>
 
-- 🔭 I’m currently working on **my first iOS app**
+- 🔭 I’m currently working on **iOS app**
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [workin on it](workin on it)
+<!-- - 👨‍💻 All of my projects are available at [workin on it](workin on it) -->
 
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **tymoteuszgralak@gmail.com**
 
-- 📄 Know about my experiences [waiting_for_my_certificates.edu](waiting_for_my_certificates.edu)
+<!-- - 📄 Know about my experiences [waiting_for_my_certificates.edu](waiting_for_my_certificates.edu) -->
 
-- ⚡ Fun fact **some fun fact**
+- ⚡ Fun fact **When I program too long, I literally dream about code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
