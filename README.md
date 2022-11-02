@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tymoteusz Gralak</h1>
 <h3 align="center">A passionate full stack developer from Poland</h3>
 
-- 🔭 I’m currently working on **iOS app**
+<!-- - 🔭 I’m currently working on **iOS app** -->
 
 - 🌱 I’m currently learning **Swift**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tymoteuszgralak@gmail.com**
 
-<!-- - 📄 Know about my experiences [waiting_for_my_certificates.edu](waiting_for_my_certificates.edu) -->
+- 📄 Know about my experiences [here]([waiting_for_my_certificates.edu](https://certificates.cs50.io/2ff74cde-3b21-403c-9ab3-7b16f4b511bb.pdf?size=letter))
 
 - ⚡ Fun fact **When I program too long, I literally dream about code**
 
