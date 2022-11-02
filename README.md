@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tymoteuszgralak@gmail.com**
 
-- 📄 Know about my experiences [here]([waiting_for_my_certificates.edu](https://certificates.cs50.io/2ff74cde-3b21-403c-9ab3-7b16f4b511bb.pdf?size=letter))
+- 📄 Know about my experiences [https://certificates.cs50.io/2ff74cde-3b21-403c-9ab3-7b16f4b511bb.pdf?size=letter]([waiting_for_my_certificates.edu](https://certificates.cs50.io/2ff74cde-3b21-403c-9ab3-7b16f4b511bb.pdf?size=letter))
 
 - ⚡ Fun fact **When I program too long, I literally dream about code**
 
