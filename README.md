@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [CS50's Web Development Certificate](https://cs50.harvard.edu/certificates/2ff74cde-3b21-403c-9ab3-7b16f4b511bb)
 
-- ⚡ Fun fact **When I program too long, I literally dream about code**
+<!-- - ⚡ Fun fact **When I program too long, I literally dream about code** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
