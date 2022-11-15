@@ -3,8 +3,8 @@
 
 <!-- - 🔭 I’m currently working on **iOS app** -->
 
-- 🌱 I’m currently learning [**Advanced REST APIs with Flask and Python
-**](https://www.udemy.com/course/advanced-rest-apis-flask-python/)
+- 🌱 I’m currently learning **[Advanced REST APIs with Flask and Python
+]**(https://www.udemy.com/course/advanced-rest-apis-flask-python/)
 
 <!-- - 👨‍💻 All of my projects are available at [workin on it](workin on it) -->
 
