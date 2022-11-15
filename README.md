@@ -3,15 +3,16 @@
 
 <!-- - 🔭 I’m currently working on **iOS app** -->
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning [**Advanced REST APIs with Flask and Python
+**](https://www.udemy.com/course/advanced-rest-apis-flask-python/)
 
 <!-- - 👨‍💻 All of my projects are available at [workin on it](workin on it) -->
 
-- 💬 Ask me about **Django**
+<!-- - 💬 Ask me about **Django** -->
 
 - 📫 How to reach me **tymoteuszgralak@gmail.com**
 
-- 📄 Know about my experiences [CS50's Web Development Certificate](https://cs50.harvard.edu/certificates/2ff74cde-3b21-403c-9ab3-7b16f4b511bb))
+- 📄 Know about my experiences [CS50's Web Development Certificate](https://cs50.harvard.edu/certificates/2ff74cde-3b21-403c-9ab3-7b16f4b511bb)
 
 - ⚡ Fun fact **When I program too long, I literally dream about code**
 
