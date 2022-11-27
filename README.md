@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gralakt&show_icons=true&locale=en" alt="gralakt" /></p>
 
  -->
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gralakt&show_icons=true&locale=en&layout=compact" alt="gralakt" /></p>
